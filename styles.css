@@ -1,0 +1,238 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.start{
+    text-align: center;
+}
+.in_touch{
+    display: inline-block;
+    text-align: left;
+    background-color: rgb(239, 235, 239);
+    width: 46%;
+    border-radius: 3px;
+}
+.in_touch h2{
+    margin: 30px 5px;
+
+}
+.name{
+    display: inline-block;
+    width: 45%;
+    margin-left: 5px;
+    margin-right: 2px;
+    height: 30px;
+    border-radius: 2px;
+    border: 0px;
+}
+.email{
+    display: inline-block;
+    width: 45%;
+    height: 30px;
+    border-radius: 2px;
+    border: 0px;
+}
+.subject{
+    width: 94%;
+    margin-top: 20px;
+    margin: 20px 5px;
+    height: 30px;
+    border-radius: 2px;
+    border: 0px;
+}
+.message{
+    width: 94%;
+    height: 100px;
+    margin: 5px 5px;
+    border-radius: 2px;
+    border: 0px;
+}
+button{
+    margin: 20px 5px;
+    background-color: black;
+    color: azure ;
+    padding: 5px;
+    border-radius: 2px;
+}
+.contact_details{
+    display: inline-block;
+    width: 46%;
+    margin: 10px;
+    padding: 15px;
+}
+.contact_details h2{
+    margin-left: 5px;   
+}
+.contact_details > p{
+    text-align: left;
+    margin: 30px 5px;
+}
+.address{
+    display: inline-block;
+    text-align: left;
+    width: 45%;
+    border: 2px solid black;
+    border-radius: 2px;
+    padding: 2px;
+    margin-bottom: 10px;
+}
+.address p{
+    line-height: 0px;
+}
+.mobile{
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 2px;
+    text-align: left;
+    padding-bottom: 8px;
+    padding-top: 1px;
+    padding-right: 218px;
+}
+.mobile p{
+    line-height: 0px;
+    margin-bottom: 8px;
+    margin-left: 45px;
+    text-align: left;
+}
+.mobile a{
+    text-decoration: none;
+    color: rgb(87, 84, 84);
+    line-height: 0px;
+    margin-bottom: 8px;
+}
+.availability{
+    display: inline-block;
+    text-align: left;
+    width: 45%;
+    border: 2px solid black;
+    border-radius: 2px;
+    padding: 2px;
+}
+.availability p{
+    line-height: 0px;
+}
+.c_email{
+    display: inline-block;
+    width: 45%;
+    border: 2px solid black;
+    border-radius: 2px;
+    padding-bottom: 8px;
+    padding-top: 1px;
+    padding-right: 17px;
+}
+.c_email p{
+    line-height: 0px;
+    margin-bottom: 8px;
+}
+.c_email a{
+    text-decoration: none;
+    color: rgb(87, 84, 84);
+    margin-bottom: px;
+}
+.social{
+    margin: 20px 5px;
+}
+.everything{
+    background-color: rgb(239, 235, 239);
+}
+.everything > p{
+    text-align: center;
+}
+.everything > h2{
+    text-align: center;
+}
+.questions{
+    display: inline-block;
+    width: 45%;
+    margin-right: 25px;
+}
+.questions > p{
+    text-align: center;
+}
+.questions h2{
+    text-align: center;
+}
+.qa{
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    margin: 60px 5px;
+    padding: 10px;
+}
+.para{
+    display: inline-block;
+    text-align: left;
+    width: 300px;
+}
+img{
+    display: inline-block;
+    text-align: right;
+    width: 45%;
+    height: 420px;
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    font-size: 12px;
+}
+.contact_info{
+    display: inline-block;
+    text-align: left;
+    text-decoration: none;
+    margin: 60px;
+}
+.contact_info h5{
+    margin: 20px 10px;
+}
+.contact_info p{
+    margin: 20px 10px;
+    color: rgb(87, 84, 84);
+}
+.contact_info a{
+    text-decoration: none;
+    margin: 20px 5px;
+    color: rgb(87, 84, 84);
+}
+.quick_links{
+    display: inline-block;
+    text-align: left;
+    text-decoration: none;
+    margin: 60px;
+}
+.quick_links h5{
+    margin: 20px 10px;
+}
+.about{
+    text-decoration: none;
+    margin: 20px 10px;
+    color: rgb(87, 84, 84);
+}
+.services{
+    display: inline-block;
+    margin: 60px;
+    padding: 20px;
+}
+.services p{
+    color: rgb(87, 84, 84);
+}
+.latest_update{
+    display: inline-block;
+    margin: 60px;
+}
+.latest_update p{
+    color: rgb(87, 84, 84);
+}
+.update{
+    background-color: azure;
+    padding: 10px;
+    border-radius: 3px;
+}
+.update  a {
+    text-decoration: none;
+    background-color: aqua;
+    padding: 8px 40px;
+    border-radius: 3px;
+    width: 100px;
+}
+.update > input{
+    border: none;
+}
